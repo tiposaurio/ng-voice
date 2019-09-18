@@ -1,4 +1,4 @@
-#Aplicacion de Reconocimiento Voz
+#Aplicación de Reconocimiento Voz
 
 Paquetes Usados
 
